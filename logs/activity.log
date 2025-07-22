@@ -1,0 +1,130 @@
+{"level":"info","message":"time=2025-07-22T21:15:22.918Z socketId=HyY2GVorFYlfIT2bAAAC action=connect detail=User connected","timestamp":"2025-07-22T21:15:22.920Z"}
+{"level":"info","message":"time=2025-07-22T21:15:22.990Z socketId=h_FCqaVRP_YZw_2iAAAD action=connect detail=User connected","timestamp":"2025-07-22T21:15:22.996Z"}
+{"level":"info","message":"time=2025-07-22T21:15:27.975Z socketId=h_FCqaVRP_YZw_2iAAAD action=disconnect detail=Unknown user disconnected","timestamp":"2025-07-22T21:15:27.982Z"}
+{"level":"info","message":"time=2025-07-22T21:15:28.284Z socketId=HyY2GVorFYlfIT2bAAAC action=disconnect detail=Unknown user disconnected","timestamp":"2025-07-22T21:15:28.285Z"}
+{"level":"info","message":"time=2025-07-22T21:15:28.432Z socketId=ijTWrJd0Q9Q_Gw3GAAAG action=connect detail=User connected","timestamp":"2025-07-22T21:15:28.433Z"}
+{"level":"info","message":"time=2025-07-22T21:15:28.480Z socketId=8eyMf3yHe5lTOT_KAAAH action=connect detail=User connected","timestamp":"2025-07-22T21:15:28.481Z"}
+{"level":"info","message":"time=2025-07-22T21:15:44.370Z socketId=8eyMf3yHe5lTOT_KAAAH action=join_room detail=User HatemCloud2001 joined room1 ","timestamp":"2025-07-22T21:15:44.371Z"}
+{"level":"info","message":"time=2025-07-22T21:15:51.931Z socketId=ijTWrJd0Q9Q_Gw3GAAAG action=join_room detail=User Ali joined room1 ","timestamp":"2025-07-22T21:15:51.931Z"}
+{"level":"info","message":"time=2025-07-22T21:15:56.384Z socketId=ijTWrJd0Q9Q_Gw3GAAAG action=send_message detail=you are spam","timestamp":"2025-07-22T21:15:56.385Z"}
+{"level":"info","message":"time=2025-07-22T21:16:00.437Z socketId=8eyMf3yHe5lTOT_KAAAH action=send_message_rejected detail=Empty message","timestamp":"2025-07-22T21:16:00.438Z"}
+{"level":"info","message":"time=2025-07-22T21:16:05.449Z socketId=8eyMf3yHe5lTOT_KAAAH action=disconnect detail=User HatemCloud2001 left room: room1 ","timestamp":"2025-07-22T21:16:05.449Z"}
+{"level":"info","message":"time=2025-07-22T21:16:05.464Z socketId=ijTWrJd0Q9Q_Gw3GAAAG action=disconnect detail=User Ali left room: room1 ","timestamp":"2025-07-22T21:16:05.465Z"}
+{"level":"info","message":"time=2025-07-22T21:16:05.686Z socketId=yy7mdfPK5Sv5uAs0AAAK action=connect detail=User connected","timestamp":"2025-07-22T21:16:05.689Z"}
+{"level":"info","message":"time=2025-07-22T21:16:05.716Z socketId=1c9BNI_iqjmIseArAAAL action=connect detail=User connected","timestamp":"2025-07-22T21:16:05.717Z"}
+{"level":"info","message":"time=2025-07-22T21:16:23.796Z socketId=yy7mdfPK5Sv5uAs0AAAK action=disconnect detail=Unknown user disconnected","timestamp":"2025-07-22T21:16:23.797Z"}
+{"level":"info","message":"time=2025-07-22T21:16:26.377Z socketId=hTa7S4NwDiL_kfOiAAAC action=connect detail=User connected","timestamp":"2025-07-22T21:16:26.378Z"}
+{"level":"info","message":"time=2025-07-22T21:16:26.397Z socketId=weVk_SDJT6_yRCjVAAAD action=connect detail=User connected","timestamp":"2025-07-22T21:16:26.398Z"}
+{"level":"info","message":"time=2025-07-22T21:16:28.123Z socketId=weVk_SDJT6_yRCjVAAAD action=disconnect detail=Unknown user disconnected","timestamp":"2025-07-22T21:16:28.124Z"}
+{"level":"info","message":"time=2025-07-22T21:16:29.920Z socketId=tmmlKeE0bqBf7jYRAAAC action=connect detail=User connected","timestamp":"2025-07-22T21:16:29.922Z"}
+{"level":"info","message":"time=2025-07-22T21:16:29.948Z socketId=EGv5ppYyxk104OqOAAAD action=connect detail=User connected","timestamp":"2025-07-22T21:16:29.950Z"}
+{"level":"info","message":"time=2025-07-22T21:16:42.091Z socketId=EObv7QVg575X5muEAAAC action=connect detail=User connected","timestamp":"2025-07-22T21:16:42.092Z"}
+{"level":"info","message":"time=2025-07-22T21:16:42.117Z socketId=z0S3aXIl1d74O8ytAAAD action=connect detail=User connected","timestamp":"2025-07-22T21:16:42.119Z"}
+{"level":"info","message":"time=2025-07-22T21:16:51.445Z socketId=I9O_6FzviBk9fOrAAAAC action=connect detail=User connected","timestamp":"2025-07-22T21:16:51.446Z"}
+{"level":"info","message":"time=2025-07-22T21:16:51.463Z socketId=ZhfbXs9mH2tQz5TPAAAD action=connect detail=User connected","timestamp":"2025-07-22T21:16:51.464Z"}
+{"level":"info","message":"time=2025-07-22T21:16:52.862Z socketId=ZhfbXs9mH2tQz5TPAAAD action=disconnect detail=Unknown user disconnected","timestamp":"2025-07-22T21:16:52.864Z"}
+{"level":"info","message":"time=2025-07-22T21:16:54.908Z socketId=ybtBrGaqYbkcFNmwAAAC action=connect detail=User connected","timestamp":"2025-07-22T21:16:54.910Z"}
+{"level":"info","message":"time=2025-07-22T21:16:54.941Z socketId=_4vfQAaG0TelbJuqAAAD action=connect detail=User connected","timestamp":"2025-07-22T21:16:54.942Z"}
+{"level":"info","message":"time=2025-07-22T21:17:18.863Z socketId=yed596YV5WyqrxmiAAAC action=connect detail=User connected","timestamp":"2025-07-22T21:17:18.865Z"}
+{"level":"info","message":"time=2025-07-22T21:17:18.880Z socketId=rPiN1wDnpxoeehg2AAAD action=connect detail=User connected","timestamp":"2025-07-22T21:17:18.881Z"}
+{"level":"info","message":"time=2025-07-22T21:17:30.109Z socketId=c6qO2KsIA78QwZlHAAAC action=connect detail=User connected","timestamp":"2025-07-22T21:17:30.111Z"}
+{"level":"info","message":"time=2025-07-22T21:17:30.185Z socketId=z43XRk4TReak1DsZAAAD action=connect detail=User connected","timestamp":"2025-07-22T21:17:30.185Z"}
+{"level":"info","message":"time=2025-07-22T21:17:31.486Z socketId=z43XRk4TReak1DsZAAAD action=disconnect detail=Unknown user disconnected","timestamp":"2025-07-22T21:17:31.490Z"}
+{"level":"info","message":"time=2025-07-22T21:17:33.829Z socketId=0dkMcg7H7crfNNgvAAAC action=connect detail=User connected","timestamp":"2025-07-22T21:17:33.831Z"}
+{"level":"info","message":"time=2025-07-22T21:17:33.860Z socketId=BFNPRnZeXeiaNI3KAAAD action=connect detail=User connected","timestamp":"2025-07-22T21:17:33.860Z"}
+{"level":"info","message":"time=2025-07-22T21:17:42.096Z socketId=qNxJXc-8d9Hd2xnSAAAB action=connect detail=User connected","timestamp":"2025-07-22T21:17:42.098Z"}
+{"level":"info","message":"time=2025-07-22T21:17:43.010Z socketId=pj0rMnvCK-LIBuX2AAAD action=connect detail=User connected","timestamp":"2025-07-22T21:17:43.013Z"}
+{"level":"info","message":"time=2025-07-22T21:17:46.749Z socketId=Z1LaXh8TEklXB9suAAAC action=connect detail=User connected","timestamp":"2025-07-22T21:17:46.751Z"}
+{"level":"info","message":"time=2025-07-22T21:17:46.778Z socketId=LnGl-hw2IyIs2nL5AAAD action=connect detail=User connected","timestamp":"2025-07-22T21:17:46.779Z"}
+{"level":"info","message":"time=2025-07-22T21:17:57.824Z socketId=LnGl-hw2IyIs2nL5AAAD action=disconnect detail=Unknown user disconnected","timestamp":"2025-07-22T21:17:57.824Z"}
+{"level":"info","message":"time=2025-07-22T21:17:59.837Z socketId=fbsnSo0axX9LsyU3AAAC action=connect detail=User connected","timestamp":"2025-07-22T21:17:59.839Z"}
+{"level":"info","message":"time=2025-07-22T21:17:59.862Z socketId=EVIWj673NUy62xHAAAAD action=connect detail=User connected","timestamp":"2025-07-22T21:17:59.864Z"}
+{"level":"info","message":"time=2025-07-22T21:18:31.600Z socketId=fbsnSo0axX9LsyU3AAAC action=disconnect detail=Unknown user disconnected","timestamp":"2025-07-22T21:18:31.601Z"}
+{"level":"info","message":"time=2025-07-22T21:18:34.131Z socketId=x_nrXq-fJWMCC_nGAAAC action=connect detail=User connected","timestamp":"2025-07-22T21:18:34.133Z"}
+{"level":"info","message":"time=2025-07-22T21:18:34.156Z socketId=riH5RZ3skmd2CfmFAAAD action=connect detail=User connected","timestamp":"2025-07-22T21:18:34.158Z"}
+{"level":"info","message":"time=2025-07-22T21:19:46.366Z socketId=riH5RZ3skmd2CfmFAAAD action=disconnect detail=Unknown user disconnected","timestamp":"2025-07-22T21:19:46.367Z"}
+{"level":"info","message":"time=2025-07-22T21:19:46.384Z socketId=x_nrXq-fJWMCC_nGAAAC action=disconnect detail=Unknown user disconnected","timestamp":"2025-07-22T21:19:46.402Z"}
+{"level":"info","message":"time=2025-07-22T21:19:46.587Z socketId=5QAM2Y8_ZwdgZmXAAAAG action=connect detail=User connected","timestamp":"2025-07-22T21:19:46.588Z"}
+{"level":"info","message":"time=2025-07-22T21:19:46.686Z socketId=rgbus6fIAIzAHwxtAAAH action=connect detail=User connected","timestamp":"2025-07-22T21:19:46.687Z"}
+{"level":"info","message":"time=2025-07-22T21:20:25.087Z socketId=5QAM2Y8_ZwdgZmXAAAAG action=join_room detail=User Ali joined room1 ","timestamp":"2025-07-22T21:20:25.089Z"}
+{"level":"info","message":"time=2025-07-22T21:20:36.441Z socketId=rgbus6fIAIzAHwxtAAAH action=join_room detail=User HatemCloud2001 joined room1 ","timestamp":"2025-07-22T21:20:36.442Z"}
+{"level":"info","message":"time=2025-07-22T21:20:41.228Z socketId=rgbus6fIAIzAHwxtAAAH action=send_message detail=you are spam","timestamp":"2025-07-22T21:20:41.229Z"}
+{"level":"info","message":"time=2025-07-22T21:20:44.252Z socketId=5QAM2Y8_ZwdgZmXAAAAG action=send_message_rejected detail=Empty message","timestamp":"2025-07-22T21:20:44.255Z"}
+{"level":"info","message":"time=2025-07-22T21:20:49.601Z socketId=5QAM2Y8_ZwdgZmXAAAAG action=bad_language detail=fuck","timestamp":"2025-07-22T21:20:49.601Z"}
+{"level":"info","message":"time=2025-07-22T21:20:52.917Z socketId=rgbus6fIAIzAHwxtAAAH action=disconnect detail=User HatemCloud2001 left room: room1 ","timestamp":"2025-07-22T21:20:52.919Z"}
+{"level":"info","message":"time=2025-07-22T21:20:54.080Z socketId=5QAM2Y8_ZwdgZmXAAAAG action=disconnect detail=User Ali left room: room1 ","timestamp":"2025-07-22T21:20:54.081Z"}
+{"level":"info","message":"time=2025-07-22T21:23:42.508Z socketId=wRuYeEIqdo7ODhF_AAAB action=connect detail=User connected","timestamp":"2025-07-22T21:23:42.550Z"}
+{"level":"info","message":"time=2025-07-22T21:23:46.925Z socketId=CmASWO7IwjOahWcsAAAD action=connect detail=User connected","timestamp":"2025-07-22T21:23:46.926Z"}
+{"level":"info","message":"time=2025-07-22T21:23:51.650Z socketId=CmASWO7IwjOahWcsAAAD action=disconnect detail=Unknown user disconnected","timestamp":"2025-07-22T21:23:51.655Z"}
+{"level":"info","message":"time=2025-07-22T21:23:51.765Z socketId=wRuYeEIqdo7ODhF_AAAB action=disconnect detail=Unknown user disconnected","timestamp":"2025-07-22T21:23:51.766Z"}
+{"level":"info","message":"time=2025-07-22T21:23:52.341Z socketId=KmocibUzaNsDRtqRAAAG action=connect detail=User connected","timestamp":"2025-07-22T21:23:52.341Z"}
+{"level":"info","message":"time=2025-07-22T21:23:52.442Z socketId=mycb0YmxqVrCod4RAAAH action=connect detail=User connected","timestamp":"2025-07-22T21:23:52.443Z"}
+{"level":"info","message":"time=2025-07-22T21:24:02.537Z socketId=KmocibUzaNsDRtqRAAAG action=join_room detail=User HatemCloud2001 joined room1 ","timestamp":"2025-07-22T21:24:02.537Z"}
+{"level":"info","message":"time=2025-07-22T21:24:10.096Z socketId=mycb0YmxqVrCod4RAAAH action=join_room detail=User Ali joined room1 ","timestamp":"2025-07-22T21:24:10.097Z"}
+{"level":"info","message":"time=2025-07-22T21:24:13.547Z socketId=mycb0YmxqVrCod4RAAAH action=send_message detail=you are spam","timestamp":"2025-07-22T21:24:13.548Z"}
+{"level":"info","message":"time=2025-07-22T21:24:31.615Z socketId=KmocibUzaNsDRtqRAAAG action=bad_language detail=fuck","timestamp":"2025-07-22T21:24:31.619Z"}
+{"level":"info","message":"time=2025-07-22T21:24:35.153Z socketId=KmocibUzaNsDRtqRAAAG action=disconnect detail=User HatemCloud2001 left room: room1 ","timestamp":"2025-07-22T21:24:35.154Z"}
+{"level":"info","message":"time=2025-07-22T21:24:35.168Z socketId=mycb0YmxqVrCod4RAAAH action=disconnect detail=User Ali left room: room1 ","timestamp":"2025-07-22T21:24:35.169Z"}
+{"level":"info","message":"time=2025-07-22T21:24:35.251Z socketId=hAFo43LYWj7pBZDoAAAJ action=connect detail=User connected","timestamp":"2025-07-22T21:24:35.252Z"}
+{"level":"info","message":"time=2025-07-22T21:24:35.339Z socketId=PCdDkJJOOolACwXyAAAL action=connect detail=User connected","timestamp":"2025-07-22T21:24:35.340Z"}
+{"level":"info","message":"time=2025-07-22T21:36:34.477Z socketId=PCdDkJJOOolACwXyAAAL action=disconnect detail=Unknown user disconnected","timestamp":"2025-07-22T21:36:34.480Z"}
+{"level":"info","message":"time=2025-07-22T21:36:34.487Z socketId=hAFo43LYWj7pBZDoAAAJ action=disconnect detail=Unknown user disconnected","timestamp":"2025-07-22T21:36:34.487Z"}
+{"level":"info","message":"time=2025-07-22T21:36:34.632Z socketId=DRQHKS77KHDu8ZjwAAAO action=connect detail=User connected","timestamp":"2025-07-22T21:36:34.635Z"}
+{"level":"info","message":"time=2025-07-22T21:36:39.046Z socketId=CIRXcl0nnaBckSBFAAAC action=connect detail=User connected","timestamp":"2025-07-22T21:36:39.048Z"}
+{"level":"info","message":"time=2025-07-22T21:36:39.064Z socketId=pekPBpzK0zCsx8SRAAAD action=connect detail=User connected","timestamp":"2025-07-22T21:36:39.065Z"}
+{"level":"info","message":"time=2025-07-22T21:36:42.284Z socketId=CIRXcl0nnaBckSBFAAAC action=disconnect detail=Unknown user disconnected","timestamp":"2025-07-22T21:36:42.297Z"}
+{"level":"info","message":"time=2025-07-22T21:36:44.589Z socketId=ozoETeVoN9yRo9ARAAAC action=connect detail=User connected","timestamp":"2025-07-22T21:36:44.591Z"}
+{"level":"info","message":"time=2025-07-22T21:36:44.603Z socketId=F8F_gNxNfWfdVAEYAAAD action=connect detail=User connected","timestamp":"2025-07-22T21:36:44.605Z"}
+{"level":"info","message":"time=2025-07-22T21:36:48.780Z socketId=aQ-nHRtEqxnhtNVwAAAC action=connect detail=User connected","timestamp":"2025-07-22T21:36:48.782Z"}
+{"level":"info","message":"time=2025-07-22T21:36:48.833Z socketId=kW1_wsqmeHJnbJkDAAAD action=connect detail=User connected","timestamp":"2025-07-22T21:36:48.841Z"}
+{"level":"info","message":"time=2025-07-22T21:39:43.353Z socketId=aQ-nHRtEqxnhtNVwAAAC action=disconnect detail=Unknown user disconnected","timestamp":"2025-07-22T21:39:43.368Z"}
+{"level":"info","message":"time=2025-07-22T21:39:43.390Z socketId=kW1_wsqmeHJnbJkDAAAD action=disconnect detail=Unknown user disconnected","timestamp":"2025-07-22T21:39:43.433Z"}
+{"level":"info","message":"time=2025-07-22T21:39:43.564Z socketId=iChK_ka11SN0IbcWAAAF action=connect detail=User connected","timestamp":"2025-07-22T21:39:43.565Z"}
+{"level":"info","message":"time=2025-07-22T21:39:47.029Z socketId=-qJfo6tijN1eVLROAAAC action=connect detail=User connected","timestamp":"2025-07-22T21:39:47.031Z"}
+{"level":"info","message":"time=2025-07-22T21:39:47.059Z socketId=p9AEzT3PcYdi-w0fAAAD action=connect detail=User connected","timestamp":"2025-07-22T21:39:47.060Z"}
+{"level":"info","message":"time=2025-07-22T21:39:48.484Z socketId=p9AEzT3PcYdi-w0fAAAD action=disconnect detail=Unknown user disconnected","timestamp":"2025-07-22T21:39:48.485Z"}
+{"level":"info","message":"time=2025-07-22T21:39:55.625Z socketId=Fp14GOkQuRmee8eBAAAB action=connect detail=User connected","timestamp":"2025-07-22T21:39:55.626Z"}
+{"level":"info","message":"time=2025-07-22T21:39:57.131Z socketId=lS0OTQJn22JR6q7yAAAD action=connect detail=User connected","timestamp":"2025-07-22T21:39:57.132Z"}
+{"level":"info","message":"time=2025-07-22T21:40:03.664Z socketId=lS0OTQJn22JR6q7yAAAD action=disconnect detail=Unknown user disconnected","timestamp":"2025-07-22T21:40:03.678Z"}
+{"level":"info","message":"time=2025-07-22T21:40:07.034Z socketId=yDCgc7DmY-2iXsZ_AAAC action=connect detail=User connected","timestamp":"2025-07-22T21:40:07.038Z"}
+{"level":"info","message":"time=2025-07-22T21:40:07.053Z socketId=xMzMH9UM9iHy4C_LAAAD action=connect detail=User connected","timestamp":"2025-07-22T21:40:07.057Z"}
+{"level":"info","message":"time=2025-07-22T21:40:13.060Z socketId=2hkVWPCmqTd1aKoqAAAC action=connect detail=User connected","timestamp":"2025-07-22T21:40:13.062Z"}
+{"level":"info","message":"time=2025-07-22T21:40:13.078Z socketId=8QhC3MAYnQ2JHgwsAAAD action=connect detail=User connected","timestamp":"2025-07-22T21:40:13.078Z"}
+{"level":"info","message":"time=2025-07-22T21:40:27.793Z socketId=67QCwk4tG7SKr7X7AAAF action=connect detail=User connected","timestamp":"2025-07-22T21:40:27.794Z"}
+{"level":"info","message":"time=2025-07-22T21:40:47.974Z socketId=67QCwk4tG7SKr7X7AAAF action=join_room detail=User HatemCloud2001 joined room1 ","timestamp":"2025-07-22T21:40:47.974Z"}
+{"level":"info","message":"time=2025-07-22T21:41:01.139Z socketId=2hkVWPCmqTd1aKoqAAAC action=join_room detail=User Ali joined room1 ","timestamp":"2025-07-22T21:41:01.140Z"}
+{"level":"info","message":"time=2025-07-22T21:41:04.285Z socketId=2hkVWPCmqTd1aKoqAAAC action=send_message detail=you are spam","timestamp":"2025-07-22T21:41:04.285Z"}
+{"level":"info","message":"time=2025-07-22T21:41:09.728Z socketId=2hkVWPCmqTd1aKoqAAAC action=send_message detail=you are spam","timestamp":"2025-07-22T21:41:09.730Z"}
+{"level":"info","message":"time=2025-07-22T21:41:09.762Z socketId=2hkVWPCmqTd1aKoqAAAC action=send_message detail=you are spam","timestamp":"2025-07-22T21:41:09.762Z"}
+{"level":"info","message":"time=2025-07-22T21:41:10.064Z socketId=2hkVWPCmqTd1aKoqAAAC action=send_message detail=you are spam","timestamp":"2025-07-22T21:41:10.065Z"}
+{"level":"info","message":"time=2025-07-22T21:41:10.101Z socketId=2hkVWPCmqTd1aKoqAAAC action=send_message detail=you are spam","timestamp":"2025-07-22T21:41:10.102Z"}
+{"level":"info","message":"time=2025-07-22T21:41:10.411Z socketId=2hkVWPCmqTd1aKoqAAAC action=send_message detail=you are spam","timestamp":"2025-07-22T21:41:10.415Z"}
+{"level":"info","message":"time=2025-07-22T21:41:10.441Z socketId=2hkVWPCmqTd1aKoqAAAC action=send_message detail=you are spam","timestamp":"2025-07-22T21:41:10.443Z"}
+{"level":"info","message":"time=2025-07-22T21:41:10.758Z socketId=2hkVWPCmqTd1aKoqAAAC action=send_message detail=you are spam","timestamp":"2025-07-22T21:41:10.761Z"}
+{"level":"info","message":"time=2025-07-22T21:41:10.788Z socketId=2hkVWPCmqTd1aKoqAAAC action=send_message detail=you are spam","timestamp":"2025-07-22T21:41:10.788Z"}
+{"level":"info","message":"time=2025-07-22T21:41:11.116Z socketId=2hkVWPCmqTd1aKoqAAAC action=send_message detail=you are spam","timestamp":"2025-07-22T21:41:11.117Z"}
+{"level":"info","message":"time=2025-07-22T21:41:11.151Z socketId=2hkVWPCmqTd1aKoqAAAC action=send_message detail=you are spam","timestamp":"2025-07-22T21:41:11.152Z"}
+{"level":"info","message":"time=2025-07-22T21:41:11.487Z socketId=2hkVWPCmqTd1aKoqAAAC action=send_message detail=you are spam","timestamp":"2025-07-22T21:41:11.488Z"}
+{"level":"info","message":"time=2025-07-22T21:41:11.521Z socketId=2hkVWPCmqTd1aKoqAAAC action=send_message detail=you are spam","timestamp":"2025-07-22T21:41:11.522Z"}
+{"level":"info","message":"time=2025-07-22T21:41:11.883Z socketId=2hkVWPCmqTd1aKoqAAAC action=send_message detail=you are spam","timestamp":"2025-07-22T21:41:11.884Z"}
+{"level":"info","message":"time=2025-07-22T21:41:11.917Z socketId=2hkVWPCmqTd1aKoqAAAC action=send_message detail=you are spam","timestamp":"2025-07-22T21:41:11.917Z"}
+{"level":"info","message":"time=2025-07-22T21:41:12.376Z socketId=2hkVWPCmqTd1aKoqAAAC action=send_message detail=you are spam","timestamp":"2025-07-22T21:41:12.383Z"}
+{"level":"info","message":"time=2025-07-22T21:41:12.405Z socketId=2hkVWPCmqTd1aKoqAAAC action=send_message detail=you are spam","timestamp":"2025-07-22T21:41:12.405Z"}
+{"level":"info","message":"time=2025-07-22T21:41:12.817Z socketId=2hkVWPCmqTd1aKoqAAAC action=send_message detail=you are spam","timestamp":"2025-07-22T21:41:12.817Z"}
+{"level":"info","message":"time=2025-07-22T21:41:12.852Z socketId=2hkVWPCmqTd1aKoqAAAC action=send_message detail=you are spam","timestamp":"2025-07-22T21:41:12.853Z"}
+{"level":"info","message":"time=2025-07-22T21:41:13.190Z socketId=2hkVWPCmqTd1aKoqAAAC action=send_message detail=you are spam","timestamp":"2025-07-22T21:41:13.192Z"}
+{"level":"info","message":"time=2025-07-22T21:41:13.225Z socketId=2hkVWPCmqTd1aKoqAAAC action=send_message detail=you are spam","timestamp":"2025-07-22T21:41:13.225Z"}
+{"level":"info","message":"time=2025-07-22T21:41:13.608Z socketId=2hkVWPCmqTd1aKoqAAAC action=send_message detail=you are spam","timestamp":"2025-07-22T21:41:13.608Z"}
+{"level":"info","message":"time=2025-07-22T21:41:13.625Z socketId=2hkVWPCmqTd1aKoqAAAC action=send_message detail=you are spam","timestamp":"2025-07-22T21:41:13.626Z"}
+{"level":"info","message":"time=2025-07-22T21:41:13.999Z socketId=2hkVWPCmqTd1aKoqAAAC action=send_message detail=you are spam","timestamp":"2025-07-22T21:41:14.011Z"}
+{"level":"info","message":"time=2025-07-22T21:41:14.028Z socketId=2hkVWPCmqTd1aKoqAAAC action=send_message detail=you are spam","timestamp":"2025-07-22T21:41:14.028Z"}
+{"level":"info","message":"time=2025-07-22T21:41:14.420Z socketId=2hkVWPCmqTd1aKoqAAAC action=send_message detail=you are spam","timestamp":"2025-07-22T21:41:14.420Z"}
+{"level":"info","message":"time=2025-07-22T21:41:41.950Z socketId=2hkVWPCmqTd1aKoqAAAC action=send_message detail=you are spam","timestamp":"2025-07-22T21:41:41.951Z"}
+{"level":"info","message":"time=2025-07-22T21:41:42.468Z socketId=2hkVWPCmqTd1aKoqAAAC action=send_message detail=you are spam","timestamp":"2025-07-22T21:41:42.469Z"}
+{"level":"info","message":"time=2025-07-22T21:41:42.915Z socketId=2hkVWPCmqTd1aKoqAAAC action=send_message detail=you are spam","timestamp":"2025-07-22T21:41:42.916Z"}
+{"level":"info","message":"time=2025-07-22T21:41:43.653Z socketId=2hkVWPCmqTd1aKoqAAAC action=send_message detail=you are spam","timestamp":"2025-07-22T21:41:43.663Z"}
+{"level":"info","message":"time=2025-07-22T21:41:44.348Z socketId=2hkVWPCmqTd1aKoqAAAC action=rate_limit_exceeded detail=you are spam","timestamp":"2025-07-22T21:41:44.350Z"}
+{"level":"info","message":"time=2025-07-22T21:41:55.001Z socketId=2hkVWPCmqTd1aKoqAAAC action=rate_limit_exceeded detail=fuck","timestamp":"2025-07-22T21:41:55.004Z"}
+{"level":"info","message":"time=2025-07-22T21:41:58.479Z socketId=67QCwk4tG7SKr7X7AAAF action=disconnect detail=User HatemCloud2001 left room: room1 ","timestamp":"2025-07-22T21:41:58.480Z"}
+{"level":"info","message":"time=2025-07-22T21:42:02.194Z socketId=8QhC3MAYnQ2JHgwsAAAD action=disconnect detail=Unknown user disconnected","timestamp":"2025-07-22T21:42:02.195Z"}
+{"level":"info","message":"time=2025-07-22T21:42:03.540Z socketId=2hkVWPCmqTd1aKoqAAAC action=disconnect detail=User Ali left room: room1 ","timestamp":"2025-07-22T21:42:03.540Z"}
